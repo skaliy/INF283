@@ -1,8 +1,7 @@
 
 MURA
 ==============================
-Predicting abnormality in bone X-rays, based on the MURA dataset: https://stanfordmlgroup.github.io/competitions/mura/.
-
+Project 1: Implementing decision trees 
 ------------
 
 Project Organization
