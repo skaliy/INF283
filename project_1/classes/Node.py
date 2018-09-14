@@ -4,10 +4,10 @@ class Node(object):
     
     def __init__(self):
         self.data = None
-        self.children = []
-        self.isChild = False
+        self.children = {}
+        self.isLeaf = False
         self.parent_node = None
+        self.category = None
 
-    def add_child(self, obj):
-        self.children.append(obj)
-
+    def add_child(self, variable_name, node):
+        self.children[variable_name] = node
