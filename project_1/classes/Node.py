@@ -8,6 +8,6 @@ class Node(object):
         self.isLeaf = False
         self.parent_node = None
         self.category = None
-
+        
     def add_child(self, variable_name, node):
         self.children[variable_name] = node
