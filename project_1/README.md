@@ -20,7 +20,6 @@ Project Organization
 ------------
 
 ## Notebooks
-
 `Decision_tree.ipynb`: The main notebook
 `Clean_data.ipynb`
 --------
