@@ -18,11 +18,9 @@ Project Organization
     │
     ├── reports            <-  PDF file
 ------------
-
 ## Notebooks
 `Decision_tree.ipynb`: The main notebook
 `Clean_data.ipynb`
-`.py`
 --------
 ## Python classes 
 `ImpurityMeasure.py`
