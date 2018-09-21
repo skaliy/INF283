@@ -21,11 +21,6 @@ Project Organization
 ## Notebooks
 `Decision_tree.ipynb`: The main notebook
 `Clean_data.ipynb`
-`ImpurityMeasure.py`
-`Metrics.py`
-`ModelSelection.py`
-`Node.py`
-`PandasToNumpy.py`
 --------
 ## Python classes 
 `ImpurityMeasure.py`
@@ -33,3 +28,6 @@ Project Organization
 `ModelSelection.py`
 `Node.py`
 `PandasToNumpy.py`
+## Notebooks
+`Decision_tree.ipynb`: The main notebook
+`Clean_data.ipynb`
