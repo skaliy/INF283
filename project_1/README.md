@@ -1,7 +1,7 @@
 
 Decision tree
 ==============================
-Project 1: Implementing decision trees and predict on mushrooms data set
+Project 1: Implementing decision trees and predict on mushroom data set
 ------------
 
 Project Organization
@@ -21,6 +21,7 @@ Project Organization
 
 ## Notebooks
 `Decision_tree.ipynb`: The main notebook
+<br/>
 `Clean_data.ipynb`
 --------
 ## Python classes 
