@@ -21,7 +21,7 @@ Project Organization
 
 ## Notebooks
 
-`Decision_tree.ipynb`
+`Decision_tree.ipynb`: The main notebook
 `Clean_data.ipynb`
 --------
 ## Python classes 
