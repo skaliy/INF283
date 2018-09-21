@@ -15,16 +15,18 @@ Project Organization
     ├── nbs                <- Jupyter notebooks. 
     │
     ├── csv                <- Csv files for use in this project.
+    │
+    ├── reports            <-  PDF file
 ------------
 
 ## Notebooks
 
-`Decision_tree.ipynb`: Description
-`Clean_data.ipynb`: Description
+`Decision_tree.ipynb`
+`Clean_data.ipynb`
 --------
 ## Python classes 
-`ImpurityMeasure.py`: Description
-`Metrics.py`: Description
-`ModelSelection.py`: Description
-`Node.py`: Description
-`PandasToNumpy.py`: Description
+`ImpurityMeasure.py`
+`Metrics.py`
+`ModelSelection.py`
+`Node.py`
+`PandasToNumpy.py`
