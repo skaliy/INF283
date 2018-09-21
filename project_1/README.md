@@ -21,8 +21,8 @@ Project Organization
 
 ## Notebooks
 `Decision_tree.ipynb`: The main notebook
-<br/>
 `Clean_data.ipynb`
+`.py`
 --------
 ## Python classes 
 `ImpurityMeasure.py`
