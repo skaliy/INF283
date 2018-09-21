@@ -18,13 +18,17 @@ Project Organization
     │
     ├── reports            <-  PDF file
 --------
-## Python classes 
-`ImpurityMeasure.py`
-`Metrics.py`
-`ModelSelection.py`
-`Node.py`
-`PandasToNumpy.py`
 ## Notebooks
 `Decision_tree.ipynb`: The main notebook
 <br>
 `Clean_data.ipynb`
+## Python classes 
+`ImpurityMeasure.py`
+<br>
+`Metrics.py`
+<br>
+`ModelSelection.py`
+<br>
+`Node.py`
+<br>
+`PandasToNumpy.py`
