@@ -1,7 +1,7 @@
 
 Decision tree
 ==============================
-Project 1: Implementing decision trees and predict on mushrooms data set
+Project 1: Implementing decision trees and predict on mushroom data set
 ------------
 
 Project Organization
