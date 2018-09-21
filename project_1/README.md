@@ -17,10 +17,6 @@ Project Organization
     ├── csv                <- Csv files for use in this project.
     │
     ├── reports            <-  PDF file
-------------
-## Notebooks
-`Decision_tree.ipynb`: The main notebook
-`Clean_data.ipynb`
 --------
 ## Python classes 
 `ImpurityMeasure.py`
