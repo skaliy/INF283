@@ -16,7 +16,5 @@ Project Organization
 --------
 ## Notebooks
 `digit_final.ipynb`: The main notebook
-<br>
-`Clean_data.ipynb`
 ## Information 
 Create a folder named csv. handwritten_digits_images.csv and handwritten_digits_labels must be in this folder. 
