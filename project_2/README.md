@@ -1,7 +1,7 @@
 
-Decision tree
+MNIST
 ==============================
-Project 1: Implementing decision trees and predict on mushroom data set
+Project 1: End-to-end MNIST project
 ------------
 
 Project Organization
@@ -10,25 +10,13 @@ Project Organization
 
     ├── README.md          <- The top-level README for developers using this project.
     │
-    ├── classes            <- Python classes for use in the notebooks. 
-    │
     ├── nbs                <- Jupyter notebooks. 
     │
-    ├── csv                <- Csv files for use in this project.
-    │
-    ├── reports            <-  PDF file
+    ├── csv                <- Create this folder
 --------
 ## Notebooks
-`Decision_tree.ipynb`: The main notebook
+`digit_final.ipynb`: The main notebook
 <br>
 `Clean_data.ipynb`
-## Python classes 
-`ImpurityMeasure.py`
-<br>
-`Metrics.py`
-<br>
-`ModelSelection.py`
-<br>
-`Node.py`
-<br>
-`PandasToNumpy.py`
+## Information 
+Create a folder named csv. handwritten_digits_images.csv and handwritten_digits_labels must be in this folder. 
